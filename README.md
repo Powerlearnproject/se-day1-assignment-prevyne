@@ -4,7 +4,7 @@ Software Engineering Day1 Assignment
 
 #Part 1: Introduction to Software Engineering
 
-Explain what software engineering is and discuss its importance in the technology industry:
+Explain what software engineering is and discuss its importance in the technology industry: 
 Software engineering is a branch of computer science focused on developing, testing, and maintaining software.
 
 Reliability: Ensures software performs as expected, especially in critical fields like healthcare and finance.
