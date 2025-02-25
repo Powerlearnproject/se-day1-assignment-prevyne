@@ -4,7 +4,7 @@ Software Engineering Day1 Assignment
 
 #Part 1: Introduction to Software Engineering
 
-1. Explain what software engineering is and discuss its importance in the technology industry:
+Explain what software engineering is and discuss its importance in the technology industry:
 Software engineering is a branch of computer science focused on developing, testing, and maintaining software.
 
 Reliability: Ensures software performs as expected, especially in critical fields like healthcare and finance.
@@ -81,10 +81,10 @@ Acceptance Testing: Confirms the software meets user needs and is ready for depl
 
 #Part 2: Introduction to AI and Prompt Engineering
 
-1. Define prompt engineering and discuss its importance in interacting with AI models:
+Define prompt engineering and discuss its importance in interacting with AI models:
 Prompt engineering involves crafting inputs to guide AI models in generating desired outputs. It improves user experience, increases flexibility, and gives developers control over AI interactions.
 
-2. Provide an example of a vague prompt and improve it:
+Provide an example of a vague prompt and improve it:
 Vague Prompt:
 "Write a story."
 
