@@ -55,7 +55,7 @@ IDEs: Platforms like Visual Studio Code that streamline coding, debugging, and c
 
 VCS: Tools like Git help manage code changes, enabling collaboration, tracking history, branching, merging, and error recovery.
 
-5. Common challenges faced by software engineers and strategies to overcome them:
+Common challenges faced by software engineers and strategies to overcome them:
 
 Rapid Technological Advancement: Stay updated through continuous learning and agile methodologies.
 
