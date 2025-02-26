@@ -23,7 +23,7 @@ Mastering Process: Developing structured methodologies for software development.
 
 Mastering Machine: Leveraging advancements in hardware and computational power.
 
-2. List and briefly explain the phases of the Software Development Life Cycle:
+List and briefly explain the phases of the Software Development Life Cycle:
 
 Planning: Identifying software requirements, purpose, and scope.
 
@@ -35,7 +35,7 @@ Coding: Translating design into functional code.
 
 Testing: Identifying and fixing bugs or glitches.
 
-3. Compare and contrast the Waterfall and Agile methodologies:
+Compare and contrast the Waterfall and Agile methodologies:
 
 Waterfall: Linear and sequential, with each phase completed before moving to the next. Low flexibility, late customer feedback, and testing done at the end. Suitable for projects with well-defined requirements.
 
@@ -49,7 +49,7 @@ Quality Assurance Engineer: Clarifies software requirements; creates development
 
 Project Manager: Leads the development team; communicates with clients and developers; creates project blueprints; tracks milestones; delivers and monitors software performance.
 
-4. Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS):
+Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS):
 
 IDEs: Platforms like Visual Studio Code that streamline coding, debugging, and compiling. They enhance productivity through features like syntax highlighting, code completion, and automated testing.
 
